@@ -129,7 +129,7 @@ height:10%;
 
 }
 
-@media (max-width:768px)
+@media (max-width:968px)
 {
     .container
 {
@@ -140,6 +140,44 @@ height:10%;
     justify-content:center;
     height: 100vh;
 }
+}
+
+
+
+
+
+
+
+
+@media (max-width:767px)
+{
+    .container
+{
+  width:500px;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height: 100vh;
+}
 
 
 }
+
+
+@media (max-width:599px)
+{
+    .container
+{
+  width:400px;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height: 100vh;
+}
+
+
+}
+
+
